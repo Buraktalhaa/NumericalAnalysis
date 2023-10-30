@@ -13,4 +13,4 @@ def replace_center_with_minus_one(d,n,m):
     a_array[start_index : end_index , start_index : end_index] = -1
 
     return a_array
-print(replace_center_with_minus_one(3,4,2))
+
